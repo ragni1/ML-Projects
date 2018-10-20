@@ -1,4 +1,4 @@
-## Candidate instructions
+## Candidate instructions  
 
 For the next stage of our process, your goal is to build a machine learning model that is able to answer which customers are profitable, and decide who to approve. How business works :
 - Selected customers are given cards
